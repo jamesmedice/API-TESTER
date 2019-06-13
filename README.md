@@ -18,4 +18,4 @@ such as English and turns those human readable text into a software test.
  src\test\resources : feature files
  
  clone specific tag
- git clone -b 'v2.0' --single-branch --depth 1 https://github.com/git/git.git
+ git clone -b 'v1.0' --single-branch --depth 1 https://github.com/git/git.git
