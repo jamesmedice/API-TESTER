@@ -25,7 +25,7 @@
 		<spring.version>5.0.4.RELEASE</spring.version>
 		<snakeyaml.version>1.19</snakeyaml.version>
 		<log4j.version>1.2.17</log4j.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<apache.http.client>4.5.2</apache.http.client>
 		<apache.http.core>4.4.5</apache.http.core>
 		<servlet-api>3.1.0</servlet-api>
