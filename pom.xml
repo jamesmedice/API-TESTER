@@ -23,7 +23,7 @@
 		<json-path.version>2.4.0</json-path.version>
 		<reactor-netty.version>0.7.5.RELEASE</reactor-netty.version>
 		<spring.version>5.0.4.RELEASE</spring.version>
-		<snakeyaml.version>1.19</snakeyaml.version>
+		<snakeyaml.version>1.26</snakeyaml.version>
 		<log4j.version>1.2.17</log4j.version>
 		<junit.version>4.11</junit.version>
 		<apache.http.client>4.5.2</apache.http.client>
